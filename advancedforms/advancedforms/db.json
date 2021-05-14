@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "bhjkkkjkj": "kljlkhkhkk"
+    },
+    {
+      "firstName": "hilgkhkk",
+      "lastName": "kkhkhkhk",
+      "email": "a@a.co",
+      "password": "kjbkkbkb",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
